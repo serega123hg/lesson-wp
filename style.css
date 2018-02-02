@@ -1,0 +1,18 @@
+/*
+Theme Name: WP Bootstrap
+Theme URI: http://template.sl/
+Description: Демонстрационная работа
+Author: Sergei korshunov
+Author IRI: http://template.sl
+Version: 1.0
+Tags: responsive, bootstrap
+
+License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+License URI: http://creativecommons.org/licenses/by-sa/3.0/
+
+Это просто тема
+*/
+
+@import url('vendor/bootstrap/css/bootstrap.min.css') ;
+@import url('css/freelancer.min.css') ;
+@import url('vendor/font-awesome/css/font-awesome.min.css') ;
